@@ -1,4 +1,4 @@
-from tkinter imoprt *
+from tkinter import *
 
 win = Tk()
 
